@@ -1,67 +1,63 @@
-
-
-<h1 align="center"> Hi 👋, am Jay 22 yo'</h1>
-<h4 align="start">
+<h1 align="center">Hi 👋, I'm Jay — 22 Years Old</h1>
+<h4 align="center">
   🎓 Graduated from <b>KMUTNB University</b> <br>
   🌍 Based in <b>Rangsit, Thailand</b> <br>
-  ✉️ Reach me at: <a href="mailto:ucxllmegenius.2003@gmail.com">ucxllmegenius.2003@gmail.com</a>
+  ✉️ Contact: <a href="mailto:ucxllmegenius.2003@gmail.com">ucxllmegenius.2003@gmail.com</a>
 </h4>
-<hr>
+
+<p align="start">
+  <img src="https://metrics.lecoq.io/jxyluvcode?template=classic&base.community=0&base.metadata=0&languages=1&isocalendar=1&people=1&leetcode=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&leetcode=false&leetcode.user=.user.login&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FBangkok" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+- 💡 Passionate about building modern web applications  
+- 🛠️ Experienced with JavaScript, TypeScript, React, SQL, and backend APIs  
+- 🐣 Gen Z dev who still respects traditional craftsmanship in coding  
+- 🚀 Always improving and learning new technologies
+
+---
 
 
+## 🔧 Tech & Skills
 
+### 📝 **Programming Languages**
+<img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,php,cpp,lua,dart,html,css,js,ts,golang,c&perline=8" />
 
+---
 
-### 📝 Programming Languages
-<img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,php,cpp,lua,dart,html,css,js,ts,golang,c&perline=5" />
+### 🎨 **Frontend / Web Development**
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,materialui,shadcn,vuejs,nuxtjs,vite&perline=8" />
 
-### 🎨 Tech Stack
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,materialui,shadcn,vuejs,nuxtjs,express,fastapi,flask&perline=5" />
+---
 
+### 🧩 **Backend & Frameworks**
+<img src="https://go-skill-icons.vercel.app/api/icons?i=express,fastapi,flask,docker,cloudflare,authjs,n8n&perline=8" />
 
+---
 
-### 📱 Mobile Development
+### 📱 **Mobile Development**
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
-### 🗄️ Database
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,postgresql,prisma,supabase,neon" />
+---
 
-### 🛠️ Tools & Platforms
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,vercel,docker,linux,figma,vite,notion,railway,virtualbox,visualstudio,vitest,cloudflare,authjs,n8n,ngrok&perline=5" />
+### 🗄️ **Databases**
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,postgresql,prisma,supabase,neon&perline=8" />
 
-### 🤖 Other
+---
+
+### ⚙️ **Dev Tools & Platforms**
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,vercel,linux,figma,railway,virtualbox,notion,ngrok&perline=10" />
+
+---
+
+### 🤖 **Others**
 <img src="https://skillicons.dev/icons?i=arduino,selenium,opencv,pytorch,qt" />
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnEleanor&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnEleanor&layout=compact&theme=radical" alt="Top Langs" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JohnEleanor&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 Achievements & Widgets
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JohnEleanor&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JohnEleanor&color=ff69b4&style=for-the-badge" alt="Profile views"/>
-</p>
 
 
-
----
-
-**Credits**  
-- [anuraghazra's GitHub Stats](https://github.com/anuraghazra/github-readme-stats)  
-- [ryo-ma's Trophy](https://github.com/ryo-ma/github-profile-trophy)  
-- [DenverCoder1's Readme Widgets](https://github.com/DenverCoder1)  
+### **Credits**
+- GitHub Stats by: anuraghazra  
+- Trophy by: ryo-ma  
+- Widgets by: DenverCoder1  
