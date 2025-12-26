@@ -31,12 +31,12 @@
 ---
 
 ### 🎨 **Frontend / Web Development**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,materialui,shadcn,vuejs,nuxtjs,vite&perline=8" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,materialui,shadcn,vuejs,nuxtjs,vite,tanstack&perline=8" />
 
 ---
 
 ### 🧩 **Backend & Frameworks**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=express,fastapi,flask&perline=8" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=express,elysia,fastapi,flask,fiber,dotnet&perline=8" />
 
 ---
 
@@ -51,7 +51,7 @@
 ---
 
 ### ⚙️ **Dev Tools & Platforms**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,vercel,linux,figma,railway,virtualbox,notion,ngrok,docker,cloudflare,authjs,n8n&perline=10" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,vercel,linux,figma,railway,virtualbox,notion,ngrok,docker,cloudflare,authjs,n8n,gitkraken&perline=10" />
 
 ---
 
