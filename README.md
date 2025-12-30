@@ -25,7 +25,7 @@
 <div align="center">
 
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jxyluvcode&theme=radical)
-
+  <img src="./github-contributions_1.5x_postspark_2025-12-31_01-03-17.png" width="600" />
 
   
 </div>
