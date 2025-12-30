@@ -9,9 +9,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 💡 Passionate about building modern web applications  
 - 🛠️ Experienced with JavaScript, TypeScript, React, SQL, and backend APIs  
-- 🐣 Gen Z dev who still respects traditional craftsmanship in coding  
 - 🚀 Always improving and learning new technologies
 
 <!-- <p align="start">
@@ -21,16 +19,20 @@
 <!--![Metrics](https://metrics.lecoq.io/jxyluvcode?template=classic&base.community=0&languages=1&stars=1&pagespeed=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=4&pagespeed=false&pagespeed.url=amjxy.online&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Asia%2FBangkok)
  -->
 
+<p align="center">
+  <img width="32%" src="https://github-readme-stats-fast.vercel.app/api?username=jxyluvcode&show_icons=true&theme=radical" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="32%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=jxyluvcode&theme=radical" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="32%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jxyluvcode&layout=compact&theme=radical" />
+</p>
+
+
 
 <div align="center">
-
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jxyluvcode&theme=radical)
   <img src="./github-contributions_1.5x_postspark_2025-12-31_01-03-17.png" width="600" />
 
-  
 </div>
----
-
 
 ## 🔧 Tech & Skills
 
